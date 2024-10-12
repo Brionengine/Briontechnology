@@ -136,7 +136,7 @@ For support and inquiries, please open an issue or visit this page.
 
 Our Story 🌱✨
 
-Brion was founded with the vision to push the boundaries of AI and quantum computing, striving to solve complex problems that shape the future. From day one, Brion's mission has been to revolutionize the technological landscape by pioneering Natural Language Programming with QuantumAion, offering a glimpse into new frontiers of computational capabilities.
+Brion was founded with the vision to push the boundaries of AI and quantum computing, striving to solve complex problems that shape the future. From day one, Brion's mission has been to revolutionize the technological landscape by pioneering Natural Language Programming first later with QuantumAion, offering a glimpse into new frontiers of computational capabilities.
 
 Community Involvement 🌍💞
 
